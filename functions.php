@@ -1,10 +1,10 @@
 <?php
 /**
- * SETUP-2801
+ * MODEL-UYG-2801
  *
- * This file adds functions to the Genesis Theme SETUP-2801.
+ * This file adds functions to the Genesis Theme MODEL-UYG-2801.
  *
- * @package SETUP-2801
+ * @package MODEL-UYG-2801
  * @author  StudioPress
  * @license GPL-2.0-or-later
  * @link    https://www.studiopress.com/
@@ -14,8 +14,8 @@
 require_once get_template_directory() . '/lib/init.php';
 
 // Defines the child theme (do not remove).
-define( 'CHILD_THEME_NAME', 'SETUP-2801' );
-define( 'CHILD_THEME_URL', 'https://setup-2801.basestructure.com/' );
+define( 'CHILD_THEME_NAME', 'MODEL-UYG-2801' );
+define( 'CHILD_THEME_URL', 'https://model-uyg-2801.basestructure.com/' );
 define( 'CHILD_THEME_VERSION', '2.8.0.1' );
 
 // Sets up the Theme.

@@ -22,13 +22,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/CHANGELOG.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/CHANGELOG.html",
-		"oF": 0
-		},
 	"/CHANGELOG.md": {
 		"cB": 0,
 		"cS": 0,
@@ -47,12 +40,116 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/config/accessibility.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/accessibility.php",
+		"oF": 0
+		},
+	"/config/custom-logo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/custom-logo.php",
+		"oF": 0
+		},
+	"/config/editor-color-palette.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/editor-color-palette.php",
+		"oF": 0
+		},
+	"/config/editor-font-sizes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/editor-font-sizes.php",
+		"oF": 0
+		},
+	"/config/html5.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/html5.php",
+		"oF": 0
+		},
+	"/config/import/content/homepage.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/import/content/homepage.php",
+		"oF": 0
+		},
+	"/config/import/images/about.jpg": {
+		"ft": 16384,
+		"iS": 446569,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/config/import/images/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/config/import/images/mountain-bw.jpg": {
+		"ft": 16384,
+		"iS": 152652,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/config/import/images/mountain-bw.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/config/menus.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/menus.php",
+		"oF": 0
+		},
+	"/config/onboarding.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config/onboarding.php",
+		"oF": 0
+		},
 	"/functions.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/functions.php",
 		"oF": 0
+		},
+	"/header/2721_model-uyg/_header-logomenu_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/header/2721_model-uyg/_header-logomenu_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/header/2721_model-uyg/_header-logomenuv_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/header/2721_model-uyg/_header-logomenuv_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/images/favicon.ico": {
 		"cB": 0,
@@ -122,33 +219,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/lib/gutenberg/front-end-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/lib/gutenberg/genesis-sample-270/front-end.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/lib/gutenberg/genesis-sample-270/front-end-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/lib/gutenberg/genesis-sample-270/init.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/lib/gutenberg/genesis-sample-270/init.php",
-		"oF": 0
-		},
-	"/lib/gutenberg/genesis-sample-270/style-editor_271.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/lib/gutenberg/genesis-sample-270/style-editor_271-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -238,6 +308,24 @@
 		"oAP": "/page_landing.php",
 		"oF": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/README.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -255,6 +343,19 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/section/2721_model-uyg/_section-header_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/section/2721_model-uyg/_section-header_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/style.css": {
 		"aP": 1,
@@ -279,18 +380,12 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/Users/smarterbetter/Dropbox/BSR_Framework/setup/selector/2721_setup/_boxsizing.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/Users/smarterbetter/Dropbox/BSR_Framework/setup/selector/2721_setup/_boxsizing.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"/template-blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/template-blocks.php",
+		"oF": 0
 		},
 	"/xml/sample.xml": {
 		"cB": 0,
@@ -306,7 +401,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 566442202.44141805,
-	"displayValue": "setup-2721",
+	"displayValue": "model-uyg-2801",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0
