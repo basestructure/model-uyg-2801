@@ -105,6 +105,9 @@ add_theme_support( 'custom-logo', genesis_get_config( 'custom-logo' ) );
 // Renames primary and secondary navigation menus.
 add_theme_support( 'genesis-menus', genesis_get_config( 'menus' ) );
 
+// Add support for post formats
+add_theme_support( 'post-formats', array( 'aside', 'audio', 'chat', 'gallery', 'image', 'link', 'quote', 'status', 'video' ) );
+
 // Adds image sizes.
 add_image_size( 'sidebar-featured', 75, 75, true );
 
@@ -202,6 +205,7 @@ function genesis_sample_comments_gravatar( $args ) {
 	return $args;
 
 }
+
 
 // ------------------------------------------------------------------------
 // CREDITS

@@ -1,0 +1,88 @@
+/* SETUP | LOOP | 2801_MODEL-UYG | ENTRY - 2019-02-06 */
+//* SETUP | LOOP | 2801_SETUP | ENTRY - 2019-02-04 */
+
+// -------------------------------------
+// EXTEND
+
+// ENTRY
+
+	%entry {}
+		%entry--single {}
+		%entry--single-content {
+			margin-bottom: #{$space-xlrg}rem;
+		}
+		%entry--archive {
+			background-color: #f3f3f3;
+			padding: #{$space-med}rem;
+			margin-bottom: #{$space-lrg}rem;
+		}
+		%entry--category {}
+		%entry--tag {}
+
+		%entry--featuredcontent {
+			background-color: #f3f3f3;
+			padding: #{$space-med}rem;
+			margin-bottom: #{$space-default}rem;
+		}
+		%entry--featuredpost {}
+		%entry--featuredpage {}
+
+	%entry-header {}
+
+	%entry-content {}
+
+	%entry-footer {}
+
+
+// -------------------------------------
+// SELECTORS
+
+
+// ENTRY
+
+	.entry {
+		@extend %entry !optional;
+	}
+		.single .entry {
+			@extend %entry--single !optional;
+		}
+		.single .content .entry {
+			@extend %entry--single-content !optional;
+		}
+		.archive .entry {
+			@extend %entry--archive !optional;
+		}
+		.archive .entry.format-audio {
+			border-top: 8px solid $color-orange;
+		}
+		.category .entry {
+			@extend %entry--category !optional;
+		}
+		.tag .entry {
+			@extend %entry--tag !optional;
+		}
+
+		.featured-content .entry {
+			@extend %entry--featuredcontent !optional;
+		}
+		.featured-content .entry.format-audio {
+			border-top: none;
+		}
+		.featured-post .entry {
+			@extend %entry--featuredpost !optional;
+		}
+		.featured-page .entry {
+			@extend %entry--featuredpage !optional;
+		}
+
+	.entry-header {
+		@extend %entry-header !optional;
+	}
+
+	.entry-content {
+		@extend %entry-content !optional;
+	}
+
+	.entry-footer {
+		@extend %entry-footer !optional;
+	}
